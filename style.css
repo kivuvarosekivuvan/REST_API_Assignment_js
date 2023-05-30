@@ -79,16 +79,16 @@
 
 }
 .pic1{
-    margin-left: 150px;margin-top: 20px;
+    margin-left: 100px;margin-top: 20px;
 }
 .pic2{
-    margin-left: 150px;
+    margin-left: 100px;
 }
 #pic3{
-margin-left: 200px;
+margin-left: 100px;
 }
 #pic4{
-margin-left: 200px;
+margin-left: 100px;
 }
 #products{
     display: flex;
@@ -100,7 +100,7 @@ margin-left: 200px;
     border-radius: 60px;
     margin-bottom: 4%;
     text-align: center;
-    width: 30%;height: 100vh;
+    width: 30%;height: 110vh;
     background-color: rgb(251, 253, 255);
 
 }
@@ -160,7 +160,7 @@ font-size: 25px;}
 margin-left: 600px;
 }
 #new{
-    margin-left: 200px;
+    margin-left: 80px;
 }
 
 footer{
