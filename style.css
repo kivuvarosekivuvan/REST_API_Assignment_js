@@ -1,7 +1,7 @@
 #get{
     color: rgb(255, 115, 0);
     font-size: 40px;
-}
+ }
 #gad{
     font-size: 40px;color: white;
     margin-left: 20px;
@@ -57,19 +57,24 @@
 }
 
 #category{
-    border: solid 1px;
+    /* border: solid 1px; */
     width: 20%;
     padding: 15px 25px;
     font-size: 20px;
     margin-top: 50px;
     margin-left: 40px;
+    border-radius: 60px;
+    background-color: rgb(206, 206, 231);
 }
 #search{
-    border: solid 1px;
+    /* border: solid 1px; */
     width: 40%;
     padding: 15px 25px;
     margin-top: -75px;margin-left: 450px;
     font-size: 20px;
+    border-radius: 60px;
+    background-color: rgb(206, 206, 231);
+
 
 }
 .pic1{
