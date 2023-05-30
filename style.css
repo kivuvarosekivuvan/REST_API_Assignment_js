@@ -1,0 +1,280 @@
+#get{
+    color: rgb(255, 115, 0);
+    font-size: 40px;
+}
+#gad{
+    font-size: 40px;color: white;
+    margin-left: 20px;
+
+}
+.nav{
+  height: 20vh;
+  background-color: rgb(36, 35, 35);
+  font-weight:800 ;
+  margin-top: -39px;
+   
+}
+#p{
+    color: white;
+    margin-left: 500px;
+    font-size: 30px;
+    margin-top: -30px;
+
+}
+#t{   
+    color: white;
+    margin-left: 680px;
+    margin-top: -60px;
+    font-size: 27px;
+
+}
+#a{
+    color: white;
+    margin-left: 900px;
+    margin-top: -58px;
+    font-size: 27px;
+
+}
+#c{
+    color: white; 
+    margin-left: 1100px; 
+    margin-top: -56px;
+    font-size: 27px;
+
+ 
+}
+/* .g{
+    margin-top: 50px;
+} */
+#btn1{
+    padding: 25px 35px;font-size: 15px;color: black;
+    background-color: orange;font-weight: 1000;
+    margin-left: 1400px;
+    border: none;
+    position: relative;
+    top: -50px;
+    margin-top: -600px;
+}
+
+#category{
+    border: solid 1px;
+    width: 20%;
+    padding: 15px 25px;
+    font-size: 20px;
+    margin-top: 50px;
+    margin-left: 40px;
+}
+#search{
+    border: solid 1px;
+    width: 40%;
+    padding: 15px 25px;
+    margin-top: -75px;margin-left: 450px;
+    font-size: 20px;
+
+}
+.pic1{
+    margin-left: 250px;margin-top: 20px;
+}
+.pic2{
+    margin-left: 250px;
+}
+#pic3{
+margin-left: 200px;
+}
+#pic4{
+margin-left: 200px;
+}
+#products{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.items{
+    border: solid 3px green;
+    border-radius: 60px;
+    margin-bottom: 4%;
+    text-align: center;
+    width: 30%;height: 95vh;
+    background-color: rgb(251, 253, 255);
+
+}
+#picy{
+    width: 90%;
+    margin-top: 10px;
+}
+#buty{
+    padding: 15px;
+    background-color: orange;
+    border: none;
+    border-radius: 20px;
+    font-weight: 900;
+}
+#name{
+    font-size: 30px;
+    margin-top: 5px;
+}
+#rate{
+    color: orange;
+}
+#save{
+    font-size: 40px;
+    margin-left: 30px;margin-bottom: -10px;
+}
+#pp{
+    margin-top: 15px;
+}
+
+.productPrice{
+    font-weight: 900;font-size: larger;
+}
+.testimonials{
+    display: flex;
+    padding: 50px;
+    /* margin: 40px; */
+    gap: 10%;
+}
+#para{
+    font-size: 28px;
+}
+#test{
+    margin-left: 500px;
+    font-size: 45px;
+    font-weight: 900;
+
+}
+#mzee{
+    margin-top: -170px;
+    margin-left: 900px;
+}
+
+#came{
+margin-left: 600px;margin-top: -200px;
+font-size: 25px;}
+#pro{
+margin-left: 600px;
+}
+#new{
+    margin-left: 200px;
+}
+
+footer{
+    display: flex;
+    background: #333;
+    justify-content: space-between;
+    color: #fff;
+    font-size: 22px;
+    gap: 30px;
+    height: 200px;
+  }
+  @media only screen and (max-width: 967px) {
+    *{
+        margin: 0;
+    }
+    .nav {
+        width: 80%;height: 35vh;
+    }
+    #p, #t, #a, #c {
+        margin-top: 10px;
+        margin-left: 0;
+        display: flex;
+        font-size: 20px;
+    }
+    .items{
+        height: 80vh;width: 260px;
+    }
+    #btn1 {
+        margin-left: 0;
+        margin-top: 50px;
+        padding: 15px;
+    }
+    #category, #search {
+        width: 60%;
+        margin-left: 0;
+        margin-top: 20px;
+    }
+    .pic1, .pic2 {
+        margin-left: 0;
+        width: 150px;
+    }
+    #products{
+        display: block; width: 200%;
+    }
+  
+    #pic3, #pic4 {
+        margin-left: 0;
+    }
+    #pic3{
+        margin-top: 20px;width: 80%;
+    }
+    #pic4{
+        width: 80%;
+    }
+    .testimonials {
+        flex-direction:column;
+        padding: 20px;
+    }
+    #test{margin-left: 10px;}
+    #para{
+        font-size: 20px;flex-wrap: wrap;margin-left: -15px;
+    }
+    #mzee {
+        margin-left: 0;
+        margin-top: 20px;
+    }
+    footer {
+        flex-direction: column;
+        justify-content:left;
+        align-items: center;height: 85vh;
+        margin-left: 10px;
+        width: 99%;
+        font-size: small;
+    }
+    #came{
+margin-left: -15px;
+margin-top: 20px;
+    }
+    #pro{
+margin-left: -15px;
+    }
+    #span{
+        margin-left: -20px;
+    }
+    #sma{
+        margin-left: -35px;
+    }
+    #new{
+        margin-left: 0px;width: 90%;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
