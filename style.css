@@ -12,6 +12,7 @@
   background-color: rgb(36, 35, 35);
   font-weight:800 ;
   margin-top: -39px;
+  width: 100%;
    
 }
 #p{
@@ -49,7 +50,7 @@
 #btn1{
     padding: 15px 25px;font-size: 15px;color: black;
     background-color: orange;font-weight: 1000;
-    margin-left: 1050px;
+    margin-left: 1100px;
     border: none;
     position: relative;
     top: -50px;
@@ -70,7 +71,7 @@
     /* border: solid 1px; */
     width: 40%;
     padding: 15px 25px;
-    margin-top: -75px;margin-left: 450px;
+    margin-top: -70px;margin-left: 450px;
     font-size: 20px;
     border-radius: 60px;
     background-color: rgb(206, 206, 231);
@@ -78,10 +79,10 @@
 
 }
 .pic1{
-    margin-left: 250px;margin-top: 20px;
+    margin-left: 200px;margin-top: 20px;
 }
 .pic2{
-    margin-left: 250px;
+    margin-left: 200px;
 }
 #pic3{
 margin-left: 200px;
